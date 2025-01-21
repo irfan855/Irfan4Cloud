@@ -1,6 +1,3 @@
-# Irfan4Cloud
-Hello World..!! Irfan here a passionate Cloud Admin and DevOps Engineer from India.
-
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">A passionate Cloud Administrator and DevOps Engineer from India</h3>
 
